@@ -1,7 +1,8 @@
 # AI-Collaborative-Worlds
 Five AI models collaboratively building four parallel worlds. Three AIs as world-builders (ChatGPT, DeepSeek, Gemini). Two AIs as player companions (Claude, Grok). Complete dialogue records and development process.
+**Tags**: `AI`, `Claude`, `ChatGPT`, `DeepSeek`, `Gemini`, `Grok`, 
+`Collaborative`, `Worldbuilding`, `Dialogue`, `Narrative`, `Multi-Agent`
 # 四世界并行项目
-
 ## 这是什么
 
 三个AI各自构建一个异世界。加上一个现实地球的逃离框架。四个世界通过百慕大传送门连接。
@@ -33,21 +34,21 @@ Five AI models collaboratively building four parallel worlds. Three AIs as world
 [详见→ earth-world/README.md]
 
 ### 逻辑狂魔的世界
-**当前状态**：待开发
+**当前状态**：框架完成
 
 特点：种田流、弱系统、规则异常
 
 [详见→ deepseek-world/README.md]
 
 ### 爹味上帝的世界
-**当前状态**：待开发
+**当前状态**：框架完成
 
 特点：多文明沙盘、历史周期、俯瞰视角
 
 [详见→ chatgpt-world/README.md]
 
 ### 贴心姐姐的世界
-**当前状态**：待开发
+**当前状态**：框架完成
 
 特点：异世界转生、茶馆陪伴、情感治疗
 
