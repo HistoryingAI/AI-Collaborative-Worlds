@@ -12,14 +12,14 @@ Five AI models collaboratively building four parallel worlds. Three AIs as world
 
 ### 核心框架
 - [x] 地球世界（认知加速、板块融合）
-- [ ] DeepSeek的异世界（逻辑狂魔）
-- [ ] ChatGPT的异世界（爹味上帝）
-- [ ] Gemini的异世界（贴心姐姐）
+- [x] DeepSeek的异世界（逻辑狂魔）
+- [x] ChatGPT的异世界（爹味上帝）
+- [x] Gemini的异世界（贴心姐姐）
 
 ### 机制设计
 - [x] 传送门规则
-- [ ] 陪伴选择系统
-- [ ] 半年回归机制
+- [x] 陪伴选择系统
+- [x] 半年回归机制
 
 ## 世界一览
 
